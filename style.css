@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+  }
+  h1{
+    color: blue;
+  }
+  .input{
+    color: blue;
+  }
+  button{
+    color: white;
+    background-color: blue;
+    border-radius: 5px;
+  }
+  #texto{
+    color: blue;
+  }
